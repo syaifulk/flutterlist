@@ -1,3 +1,3 @@
 # flutterlist
 
-A new Flutter project.
+Aplikasi flutter Firebase.
